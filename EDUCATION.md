@@ -1,4 +1,4 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Khakriv National Automobile and Highway University
+- GoIT Fullstack course
